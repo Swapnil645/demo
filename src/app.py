@@ -1,5 +1,4 @@
 from flask import Flask
-from six.moves import xrange
 
 app = Flask(__name__)
 
